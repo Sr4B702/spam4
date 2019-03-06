@@ -127,5 +127,5 @@ if (!rank) return message.reply(' ')
 });
 
 
-client.login(process.env.TOKEN3);
-client2.login(process.env.TOKEN4);
+client.login(process.env.TOKEN);
+client2.login(process.env.TOKEN2);
